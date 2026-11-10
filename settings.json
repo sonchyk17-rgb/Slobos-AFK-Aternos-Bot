@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "CyberCraft-ehiL.aternos.me",
+    "port": 40691,
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
